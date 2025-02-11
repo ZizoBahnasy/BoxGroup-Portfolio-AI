@@ -24,12 +24,20 @@ Contains the LiveKit Python Agents implementation.
 ### /web
 Houses the Next.js web frontend.
 
+### /scripts
+Python scripts for portfolio data processing pipeline:
+- script_1_run.py : Main wrapper script that orchestrates the entire data pipeline
+- script_2_extract.py : Scrapes BoxGroup's portfolio website to build a list of companies they've invested in
+- script_3_enrich.py : Pulls detailed company descriptions from each company's website
+- script_4_analyze.py : Runs data through OpenAI's LLM to guess company names, add metrics, and provide descriptive analyses used when analyzing companies
+- script_5_research.py : Pulls in valuation and fundraising data by scraping Google News
+
 ### /data
 Stores generated portfolio data files:
-- portfolio_1_extracted.json : Initial company data
-- portfolio_2_enriched.json : Enriched company information
-- portfolio_3_analyzed.json : AI analysis results
-- portfolio_4_valuations.json : Final data with fundraising information
+- portfolio_1_extracted.json : Initial company data from BoxGroup's website
+- portfolio_2_enriched.json : Enriched company information from company websites
+- portfolio_3_analyzed.json : AI analysis results including metrics and insights
+- portfolio_4_valuations.json : Final data with fundraising information from news sources
 
 ## Prerequisites
 
