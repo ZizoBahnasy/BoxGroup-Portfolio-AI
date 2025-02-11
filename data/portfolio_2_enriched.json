@@ -1,0 +1,3050 @@
+[
+  {
+    "name": "www.tryramp.com",
+    "url": "https://www.tryramp.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Make expense management easy with Ramp's spend management platform. Combine global corporate cards, travel, expenses and accounts payable to automate finance operations and improve efficiency."
+  },
+  {
+    "name": "www.plaid.com",
+    "url": "https://www.plaid.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true,
+    "description": "Plaid helps all companies build fintech solutions by making it easy, safe and reliable for people to connect their financial data to apps and services."
+  },
+  {
+    "name": "airtable.com",
+    "url": "http://airtable.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Airtable is a low\u2012code platform to build next\u2012gen apps. Move beyond rigid tools, operationalize your critical data, and reimagine workflows with AI."
+  },
+  {
+    "name": "ro.co",
+    "url": "https://ro.co/weight-loss/wegovy/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true,
+    "description": "Wegovy is a weight loss medication approved by the FDA. Get a prescription for Wegovy from Ro. Read Important Safety Information and Boxed Warning."
+  },
+  {
+    "name": "amplitude.com",
+    "url": "https://amplitude.com",
+    "is_ipo": true,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Build better products by turning your user data into meaningful insights, using Amplitude's digital analytics platform and experimentation tools."
+  },
+  {
+    "name": "clay.run",
+    "url": "http://clay.run",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true,
+    "description": "Access 100+ premium data sources and AI research agents in one platform, then automate growth workflows to turn insights into revenue."
+  },
+  {
+    "name": "scopely.com",
+    "url": "http://scopely.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Scopely is a global interactive entertainment and mobile-first video game company, home to many top, award-winning experiences such as \"MONOPOLY GO!,\" \u201cStar Trek\u2122 Fleet Command,\u201d \u201cStumble Guys,\u201d \u201cMARVEL Strike Force,\u201d and \u201cYahtzee\u00ae With Buddies,\u201d among others."
+  },
+  {
+    "name": "solugen.com",
+    "url": "https://solugen.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "stripe.com",
+    "url": "http://stripe.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Stripe powers online and in-person payment processing and financial solutions for businesses of all sizes. Accept payments, send payouts, and automate financial processes with a suite of APIs and no-code tools."
+  },
+  {
+    "name": "warp.dev",
+    "url": "https://warp.dev",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true,
+    "description": "Warp is the intelligent terminal with AI and your dev team's knowledge built-in. Available now on MacOS and Linux."
+  },
+  {
+    "name": "www.flyzipline.com",
+    "url": "http://www.flyzipline.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Zipline is the world's largest autonomous delivery system, specializing in on-demand drone delivery and instant logistics."
+  },
+  {
+    "name": "cursor.sh",
+    "url": "https://cursor.sh/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Built to make you extraordinarily productive, Cursor is the best way to code with AI."
+  },
+  {
+    "name": "0pass.com",
+    "url": "https://0pass.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "High security organizations trust 0pass for passwordless authentication with YubiKeys and device biometrics. Move infrastructure & apps to phishing-resistant MFA."
+  },
+  {
+    "name": "www.64-x.com",
+    "url": "https://www.64-x.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "8flow.ai",
+    "url": "https://8flow.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "8flow.ai - AI and automation for the enterprise"
+  },
+  {
+    "name": "www.accruesavings.com",
+    "url": "https://www.accruesavings.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Accrue is a stored value platform that gets customers to their next purchase."
+  },
+  {
+    "name": "www.adaptive.build",
+    "url": "https://www.adaptive.build/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Built for construction. Automate your budgets, job costing, draws, bookkeeping, receipt capture, vendor compliance, and more - all with dedicated customer support"
+  },
+  {
+    "name": "adstruc.com",
+    "url": "http://adstruc.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Adstruc is the easiest way to plan and buy outdoor advertising. Our technology delivers efficient Out-of-Home campaigns for both brands and agencies."
+  },
+  {
+    "name": "aetherbio.com",
+    "url": "https://aetherbio.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Aether uses its state of the art platform to rapidly engineer enzymes, enabling our customers to manufacture complex and novel products at fractional cost."
+  },
+  {
+    "name": "www.airbase.com",
+    "url": "https://www.airbase.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Automate invoice processing, improve compliance & expense management while gaining more visibility into daily spend with real-time reporting throughout the procure-to-pay cycle."
+  },
+  {
+    "name": "www.alignedmarketplace.com",
+    "url": "https://www.alignedmarketplace.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Self-insured employers can have their employees access advanced primary care across geographies and only pay if it drives total cost of care savings."
+  },
+  {
+    "name": "runalloy.com",
+    "url": "https://runalloy.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Alloy is an embedded integrations platform used by engineering and product teams to simplify & accelerate all aspects of integration development - from user-customizability to polling infrastructure. "
+  },
+  {
+    "name": "helloalma.com",
+    "url": "https://helloalma.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Alma makes it easy to find high-quality, affordable mental health care."
+  },
+  {
+    "name": "www.alt.xyz",
+    "url": "https://www.alt.xyz/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Buy and sell authenticated, investment-grade trading cards and use our industry-leading research tools to make informed investment decisions."
+  },
+  {
+    "name": "ambrook.com",
+    "url": "http://ambrook.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "\"Wrangle your finances. Start in less than an hour.\""
+  },
+  {
+    "name": "www.tryandai.com",
+    "url": "https://www.tryandai.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Home page for &AI"
+  },
+  {
+    "name": "and.co",
+    "url": "http://and.co",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "The best client management tool for freelancers and small business. Smarter Invoicing, Proposals, Time Tracking, Payments & Contracts"
+  },
+  {
+    "name": "www.ansa.dev",
+    "url": "https://www.ansa.dev/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Ansa helps brands increase revenue and retention with branded wallets."
+  },
+  {
+    "name": "antaresindustries.com",
+    "url": "https://antaresindustries.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Continuous energy with no sustaining supply chain for 3 years. Automated controls, power management, and distribution with no specialized workforce."
+  },
+  {
+    "name": "www.anthrogen.com",
+    "url": "https://www.anthrogen.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Solving the Earth's largest challenge at it's smallest scale. We use genetically engineered bacteria and enzymatic cascades to produce polymers for carbon capture, fuels, industrials, and biotech."
+  },
+  {
+    "name": "applystickers.com",
+    "url": "http://applystickers.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Apply makes the world's best stickers to inspire the artist in each of us. Apply's creations and collaborations inspire creativity with stickers as the building blocks of self expression."
+  },
+  {
+    "name": "www.arcadia.com",
+    "url": "https://www.arcadia.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Arcadia unlocks access to global utility data. Our technology powers the next generation of climate solutions, giving anyone the tools to electrify and decarbonize."
+  },
+  {
+    "name": "artsy.net",
+    "url": "http://artsy.net",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Artsy is the world\u2019s largest online art marketplace. Browse over 1 million artworks by iconic and emerging artists from 4000+ galleries and top auction houses."
+  },
+  {
+    "name": "useascend.com",
+    "url": "https://useascend.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Ascend is a financial automation platform built for insurance that streamlines billing, payments, accounting, and disbursements for retailers, MGAs, and carriers."
+  },
+  {
+    "name": "astranis.com",
+    "url": "http://astranis.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Astranis designs, builds, and operates the world\u00e2\u0080\u0099s most advanced high-orbit satellites."
+  },
+  {
+    "name": "www.a.team",
+    "url": "https://www.a.team/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "A.Team's AI-powered platform empowers you to build like a unicorn with a dream team of top Silicon Valley engineers, PMs, designers, and data scientists."
+  },
+  {
+    "name": "www.atom-computing.com",
+    "url": "https://www.atom-computing.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "automatedinsights.com",
+    "url": "http://automatedinsights.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "www.avoca.ai",
+    "url": "https://www.avoca.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Whether it's HVAC, plumbing, or more, Avoca can boost your business revenue, empower your technicians or reps, and serve your customers 10x better through our novel AI features deeply integrated with platforms that you love such as ServiceTitan"
+  },
+  {
+    "name": "playbackbone.com",
+    "url": "https://playbackbone.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Evolve your gaming with Backbone's mobile controller & all-in-one mobile app that lets you cloud game & play mobile and cross-platform titles from anywhere."
+  },
+  {
+    "name": "www.backengine.com",
+    "url": "https://www.backengine.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Your automated co-pilot to drive NRR"
+  },
+  {
+    "name": "bark.co",
+    "url": "https://bark.co",
+    "is_ipo": true,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "At BARK, we want to make dogs as happy as they make us. Because dogs and humans are better together."
+  },
+  {
+    "name": "www.baseten.co",
+    "url": "https://www.baseten.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Effortlessly serve optimized open source & custom models on the fastest, most reliable model delivery network"
+  },
+  {
+    "name": "www.basiccapital.com",
+    "url": "https://www.basiccapital.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Basic Capital enables you to make a large investment and finance it over time, similar to a mortgage"
+  },
+  {
+    "name": "www.getbasis.ai",
+    "url": "https://www.getbasis.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true,
+    "description": "AI agents built specifically for accountants"
+  },
+  {
+    "name": "basistheory.com",
+    "url": "http://basistheory.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Quickly Tokenize Bank Accounts, Credit Cards, PII, and other valuable data in minutes. Build secure applications and workflows in minutes with your current team."
+  },
+  {
+    "name": "behance.com",
+    "url": "http://behance.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "shop.getbezel.com",
+    "url": "https://shop.getbezel.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Bezel is the top marketplace in the world for authenticated luxury watches. Get free in-house authentication and fully-insured overnight shipping with every purchase."
+  },
+  {
+    "name": "playbigbrain.com",
+    "url": "https://playbigbrain.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": ""
+  },
+  {
+    "name": "binti.com",
+    "url": "https://binti.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Foster Care Software"
+  },
+  {
+    "name": "blinkhealth.com",
+    "url": "http://blinkhealth.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "www.blockrenovation.com",
+    "url": "https://www.blockrenovation.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Streamline your renovation with Block's vetted contractor network, digital tools, and range of optional support packages. Get an estimate today."
+  },
+  {
+    "name": "blueapron.com",
+    "url": "http://blueapron.com",
+    "is_ipo": true,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "boulder.care",
+    "url": "https://boulder.care/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Whole-person online opioid, alcohol, and SUD addiction treatment grounded in unconditional support. A dedicated care team with Drs, Peer support, and 24/7 care management. Call us at 503-563-2550 to get started - you\u00e2\u0080\u0099ve got people now."
+  },
+  {
+    "name": "joinboulevard.com",
+    "url": "https://joinboulevard.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Boulevard is the first and only Client Experience Platform. Streamline bookings, optimize your schedule, and drive growth with a complete platform built just for you"
+  },
+  {
+    "name": "boweryfarming.com",
+    "url": "http://boweryfarming.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true,
+    "description": "Produce Grown Smarter"
+  },
+  {
+    "name": "boxed.com",
+    "url": "http://boxed.com",
+    "is_ipo": true,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "www.braintrustdata.com",
+    "url": "https://www.braintrustdata.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "The end-to-end platform for building world-class AI products"
+  },
+  {
+    "name": "branch.com",
+    "url": "http://branch.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Branch Insurance is the easiest way to get home, auto, or bundled coverage. Just enter your name and address to see hundreds of savings in seconds."
+  },
+  {
+    "name": "www.breadpayments.com",
+    "url": "https://www.breadpayments.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "thebrowser.company",
+    "url": "https://thebrowser.company/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "We\u2019re building a better way to use the internet, starting with your browser. Let go of the clicks, clutter, and distraction with Arc."
+  },
+  {
+    "name": "bubble.io",
+    "url": "https://bubble.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "A platform for beginners and experts alike. See why more than 4.69 million apps have been built and launched on Bubble."
+  },
+  {
+    "name": "www.usebutton.com",
+    "url": "https://www.usebutton.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Button empowers the world's biggest Brands to supercharge their mobile marketing and ad performance using identity, deep linking, and machine learning technology."
+  },
+  {
+    "name": "shopcanal.com",
+    "url": "https://shopcanal.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Streamline your brand partnerships with the all-in-one tool for brand partnership proposals, commissions, and payments."
+  },
+  {
+    "name": "www.joincandidhealth.com",
+    "url": "https://www.joincandidhealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Candid Health is your source of truth for revenue cycle management\u00e2\u0080\u0094track claims end-to-end, automate fixes, unlock insights, and scale digital health payments."
+  },
+  {
+    "name": "canopyservicing.com",
+    "url": "https://canopyservicing.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Built for B2B lending pograms, Canopy provides everything you need for better loan management and servicing, with the ability to operate and scale multiple products via a single platform. Canopy also offers the most flexible API platform for loan management and servicing."
+  },
+  {
+    "name": "canopylabs.ai",
+    "url": "https://canopylabs.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Building digital humans that pass the Turing test"
+  },
+  {
+    "name": "capchase.com",
+    "url": "https://capchase.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Fast, non-dilutive financing for SaaS and B2B installment and flexible term payment options for your customers to reduce buying friction."
+  },
+  {
+    "name": "www.cartwheelcare.org",
+    "url": "https://www.cartwheelcare.org/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Cartwheel Care partners with K-12 school districts and delivers personalized support. Our licensed clinicians offer mental health care with no waitlists."
+  },
+  {
+    "name": "casetext.com",
+    "url": "http://casetext.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "www.getcatch.com",
+    "url": "https://www.getcatch.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "The rewards debit card that earns you $$ on all your purchases. Earn on your everyday spend and treat yourself next time you shop at your favorite brands."
+  },
+  {
+    "name": "www.getcensus.com",
+    "url": "https://www.getcensus.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Census is the world's first Universal Data Platform that helps data and business teams define and deliver trusted data to every team, customer, and application with Reverse ETL."
+  },
+  {
+    "name": "chain.com",
+    "url": "http://chain.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Are you a Consumer or Business looking to navigate the Blockchain space? Our Non-Custodial Chain Wallet and Enterprise Solutions are your bridge to Web3."
+  },
+  {
+    "name": "www.chief.com",
+    "url": "https://www.chief.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Chief is a leading professional network for women executives, giving members access to leadership insights & tools that influence today's business environment."
+  },
+  {
+    "name": "www.circle.so",
+    "url": "https://www.circle.so",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "citizen.com",
+    "url": "http://citizen.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Citizen helps you stay safe & informed, by providing instant notifications and live broadcasts of reported crimes and incidents near you."
+  },
+  {
+    "name": "www.claim.co",
+    "url": "https://www.claim.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Unlock your city with Claim. Get paid to discover brands around your campus or city with friends. New Drops every Thursday at 11 AM ET."
+  },
+  {
+    "name": "www.clara.com",
+    "url": "https://www.clara.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "The most complete solution for your company's expense management. Control spends with Clara's Corporate Credit Card and Management Platform."
+  },
+  {
+    "name": "classpass.com",
+    "url": "https://classpass.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Try the best fitness classes, gyms, wellness and beauty venues with one app. In-studio, outdoor and digital options available in over 2,500 cities worldwide."
+  },
+  {
+    "name": "www.cleancult.com",
+    "url": "https://www.cleancult.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "We believe in refilling, not landfilling. Switch from a bad plastic habit to a cleaner refill ritual- one that cleans our homes and leaves them smelling heavenly without the plastic waste."
+  },
+  {
+    "name": "clearbit.com",
+    "url": "http://clearbit.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Now reinvented with Artificial Intelligence\u2014Clearbit is the first HubSpot Native Data Provider. Enrich your records, score, route, and reveal buying intent from your visitors."
+  },
+  {
+    "name": "cloverhealth.com",
+    "url": "http://cloverhealth.com",
+    "is_ipo": true,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "With most plans at $0/month, Clover is a Medicare Advantage plan giving members more coverage for less cost, including dental, vision, hearing & more."
+  },
+  {
+    "name": "www.joinclubhouse.com",
+    "url": "https://www.joinclubhouse.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Huuuge group voice notes with all of your friends"
+  },
+  {
+    "name": "coastpay.com",
+    "url": "https://coastpay.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true,
+    "description": "Coast is a Visa fleet fuel and gas card plus expense management solution that helps fleets control and track employee spending on fuel and other expenses."
+  },
+  {
+    "name": "cohere.so",
+    "url": "http://cohere.so",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Visually guide customers over phone or live chat with instant, no-download cobrowsing."
+  },
+  {
+    "name": "www.commandbar.com",
+    "url": "https://www.commandbar.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Command AI gives you in-app help, natural language search, and non-annoying nudges \u2014 in one powerful platform."
+  },
+  {
+    "name": "www.concourse.co",
+    "url": "https://www.concourse.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Concourse works with finance teams to 10x productivity by reducing manual work and delivering powerful financial insights. Concourse's AI Analyst answers questions, retrieves data, creates charts, and writes full financial reports to help finance teams better operate."
+  },
+  {
+    "name": "getconfide.com",
+    "url": "https://getconfide.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Confide\u2019s encrypted, ephemeral and screenshot-proof messenger allows you to communicate digitally with the same level of privacy and security as the spoken word."
+  },
+  {
+    "name": "crayon.co",
+    "url": "http://crayon.co",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Crayon is a competitive intelligence platform that monitors your competitors and enables your sales team with real-time intelligence."
+  },
+  {
+    "name": "www.interwellhealth.com",
+    "url": "https://www.interwellhealth.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Interwell Health is a kidney care management company that partners with physicians on its mission to reimagine healthcare. Learn more online today."
+  },
+  {
+    "name": "croissant.com",
+    "url": "https://croissant.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Croissant Guaranteed Buybacks\u2122. Get guaranteed resale prices while you shop. Sell in one click. Get paid out instantly."
+  },
+  {
+    "name": "www.ctrlstack.com",
+    "url": "https://www.ctrlstack.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Buried in Repeat Questions? Never Answer the Same Question Twice."
+  },
+  {
+    "name": "www.culturebiosciences.com",
+    "url": "https://www.culturebiosciences.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Culture\u00e2\u0080\u0099s bioreactors for cell culture provide flexibility and real-time data analysis, reducing bottlenecks in bioprocess development. Drive innovation faster!"
+  },
+  {
+    "name": "curie.bio",
+    "url": "https://curie.bio/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Curie.Bio is a new model for venture capital in biotech. We are focused on a singular mission \u2013 helping founders launch therapeutics companies that go on to raise an awesome next round of financing."
+  },
+  {
+    "name": "customer.io",
+    "url": "http://customer.io",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Explore Customer.io, the data-driven platform for personalized customer journeys across all channels, fueled by first-party data."
+  },
+  {
+    "name": "cycle.app",
+    "url": "http://cycle.app",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Cycle is the fastest way for your team to capture product feedback and share customer insights \u00e2\u0080\u0093 without the busywork."
+  },
+  {
+    "name": "dandelionenergy.com",
+    "url": "https://dandelionenergy.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Dandelion's nation-leading geothermal drilling and heat pumps provide cost-effective, renewable home heating and cooling."
+  },
+  {
+    "name": "dataminr.com",
+    "url": "http://dataminr.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Dataminr\u2019s real-time AI platform detects the earliest signals of high-impact events and emerging risks from within publicly available data."
+  },
+  {
+    "name": "www.withdavid.ai",
+    "url": "https://www.withdavid.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "David AI is powering the world's leading speech models through high-quality proprietary audio datasets"
+  },
+  {
+    "name": "www.davidenergy.com",
+    "url": "https://www.davidenergy.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Smart energy enabled by technology. Delivering cheaper, cleaner, more reliable electricity \u00e2\u0080\u0093 to power your life, your way."
+  },
+  {
+    "name": "getdecipher.com",
+    "url": "https://getdecipher.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "The AI agent that uses advanced vision LLMs to watch thousands of hours of session replays for you so you can discover customer issues, understand feature usage, and get product questions answered. "
+  },
+  {
+    "name": "www.default.com",
+    "url": "https://www.default.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Default eliminates manual workflows and removes tech stack complexity by bundling automation, scheduling, qualification, routing, reporting, and enrichment."
+  },
+  {
+    "name": "www.didero.ai",
+    "url": "https://www.didero.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Didero integrates with your existing systems and uses AI trained on best practices in supply chain management to automate your most common workflows, starting with POs \u00e2\u0080\u0094 from proactively checking in on orders to running an entire RFQ process for you."
+  },
+  {
+    "name": "diode.computer",
+    "url": "https://diode.computer/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Diode automates your hardware engineering using AI. It's like hiring a senior PCB designer for all your projects."
+  },
+  {
+    "name": "www.doppler.com",
+    "url": "https://www.doppler.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Doppler redefines how engineering teams handle secrets management. Experience enhanced security, agility, and automation with our cloud platform. Start your free trial."
+  },
+  {
+    "name": "dots.dev",
+    "url": "https://dots.dev/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Receive and send payments on multiple platforms while we handle your payout tasks\u2014all through one simple API. Save time and get rid of manual processes."
+  },
+  {
+    "name": "efficient.computer",
+    "url": "https://efficient.computer/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "electronx.com",
+    "url": "https://electronx.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "homepage description"
+  },
+  {
+    "name": "embrace.io",
+    "url": "http://embrace.io",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Deliver better, bolder mobile experiences with Embrace. Optimize app performance & solve every crash, error, and ANR with our comprehensive platform."
+  },
+  {
+    "name": "enode.io",
+    "url": "http://enode.io",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Connect to your customers' energy devices to build experiences they love. Control and optimize those energy devices through your app."
+  },
+  {
+    "name": "www.epochbiodesign.com",
+    "url": "https://www.epochbiodesign.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Epoch, the Total BioDesign company that\u2019s scaling biology to solve our biggest climate challenges."
+  },
+  {
+    "name": "www.geteppo.com",
+    "url": "https://www.geteppo.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Eppo runs trustworthy, data warehouse-native A/B tests. World-class statistical rigor, feature management, and experiment reports - all in one tool."
+  },
+  {
+    "name": "equals.app",
+    "url": "https://equals.app/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Track ARR, SaaS metrics, and more with live data from Stripe, Salesforce, Hubspot, and SQL\u2014no CSVs required. Build live dashboards and pivot tables in seconds."
+  },
+  {
+    "name": "etleap.com",
+    "url": "https://etleap.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Etleap streamlines data ingestion, transformation, and observability so your team can create data products effortlessly."
+  },
+  {
+    "name": "www.one.app",
+    "url": "https://www.one.app/atwork",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "ONE@Work partners with leading employers to provide simple tools that help you take control of your pay \u2014 without the hassle."
+  },
+  {
+    "name": "evvy.com",
+    "url": "https://evvy.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Our Vaginal Health Test is the first-ever at-home vaginal microbiome test to use metagenomic sequencing to tell you what\u00e2\u0080\u0099s up down there, why it matters, and what you can do about it.\u00c2\u00a0Our clinical care platform includes prescription treatment programs for bacterial vaginosis (BV), yeast infections, aerobic vaginitis, and more."
+  },
+  {
+    "name": "www.fabrichealth.com",
+    "url": "http://www.fabrichealth.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Create more capacity to care. Fabric is the care enablement system powering healthcare to move faster, work smarter, and deliver better care."
+  },
+  {
+    "name": "www.factory.ai",
+    "url": "https://www.factory.ai",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Transform your software development with AI. Factory's platform accelerates understanding, coding, reviewing, testing, and documenting software with artificial intelligence."
+  },
+  {
+    "name": "www.fillout.com",
+    "url": "https://www.fillout.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Create powerful forms, surveys and quizzes your audience will answer. Store responses directly where you need them."
+  },
+  {
+    "name": "tryfinch.com",
+    "url": "https://tryfinch.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Streamline employer onboarding, operations, and administration with one platform for all your HRIS and payroll integrations. Integrate with 220+ systems through Finch."
+  },
+  {
+    "name": "flatiron.com",
+    "url": "http://flatiron.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Clinicians, researchers, and regulators rely on Flatiron technology and evidence to learn faster and power smarter care for every patient. Because transforming cancer care takes all of us."
+  },
+  {
+    "name": "flatironschool.com",
+    "url": "http://flatironschool.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Flatiron Schools is a coding bootcamp with on-campus and online courses for coding, data science, cybersecurity, and UI/UX product design."
+  },
+  {
+    "name": "flexport.com",
+    "url": "http://flexport.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Cut costs, automate workflows, reliably move goods, go carbon-neutral, and improve your supply chain from end to end. It all starts here."
+  },
+  {
+    "name": "www.float.tech",
+    "url": "https://www.float.tech/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Intelligent Automation for the Next Evolution of Capital Markets"
+  },
+  {
+    "name": "flockhomes.com",
+    "url": "https://flockhomes.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Retire from being a landlord."
+  },
+  {
+    "name": "flow.io",
+    "url": "http://flow.io",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "We\u00e2\u0080\u0099re simplifying it all, from implementation to operations, so you can get to market faster with true-to-brand ecommerce experiences that accelerate growth."
+  },
+  {
+    "name": "www.flowcarbon.com",
+    "url": "https://www.flowcarbon.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Financing the future of engineered carbon removal - Flowcarbon drives climate impact through carbon finance, project development and carbon credit portfolio services."
+  },
+  {
+    "name": "www.onefootprint.com",
+    "url": "https://www.onefootprint.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Verify your customers while blocking fraud, ensuring compliance, and driving revenue."
+  },
+  {
+    "name": "formsort.com",
+    "url": "https://formsort.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Build beautiful, high-conversion forms, without the dev time. No coding needed. Templates for patient intake forms, quizzes, and more."
+  },
+  {
+    "name": "www.fortunahealth.com",
+    "url": "https://www.fortunahealth.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Navigating Medicaid is always fast, simple, and digital with Fortuna."
+  },
+  {
+    "name": "www.foundationhealth.com",
+    "url": "https://www.foundationhealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Create delightful consumer experiences for your customers with seamlessly connected digital and physical infrastructure."
+  },
+  {
+    "name": "fragment.dev",
+    "url": "https://fragment.dev",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Fragment is the Ledger API for engineers that move money. Stop wrangling payment tables and debugging balance errors. Start shipping features that make a difference."
+  },
+  {
+    "name": "www.friendlyapps.co",
+    "url": "https://www.friendlyapps.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "fullyramped.com",
+    "url": "https://fullyramped.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Get FullyRamped in no time. Stop burning leads with a half-baked talk track. "
+  },
+  {
+    "name": "fundera.com",
+    "url": "http://fundera.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Discover the financial options you never knew you had and make your best business decisions yet. It's easy, free, and won't affect your credit."
+  },
+  {
+    "name": "funnelleasing.com",
+    "url": "https://funnelleasing.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Our revolutionary CRM property management software saves both time and money for agents and owners while making leasing more efficient. Learn how here."
+  },
+  {
+    "name": "www.fuseenergy.com",
+    "url": "https://www.fuseenergy.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Fuse Energy is building the future of electricity with cheaper tariffs, better service, and greener goals. Switch to Fuse Energy today"
+  },
+  {
+    "name": "gamechanger.io",
+    "url": "http://gamechanger.io",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "GameChanger is the one app every sports team needs. Free live video streaming with integrated scoreboard, advanced scorekeeping, live game and season stats, automatic highlight clips, and team management. STREAM. SCORE. CONNECT."
+  },
+  {
+    "name": "www.ganymede.bio",
+    "url": "https://www.ganymede.bio/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Transform your lab data with Ganymede\u00e2\u0080\u0099s modular platform, designed for seamless wet lab connectivity and automation into one FAIR data layer."
+  },
+  {
+    "name": "www.getgarner.com",
+    "url": "https://www.getgarner.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Garner Health is the best way to reduce costs, improve employee engagement, and incorporate value-based care into your benefits program."
+  },
+  {
+    "name": "garnix.io",
+    "url": "https://garnix.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Simple, fast, and green CI and caching for nix projects"
+  },
+  {
+    "name": "www.geltor.com",
+    "url": "http://www.geltor.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "generalbiological.com",
+    "url": "https://generalbiological.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "GB: scaling biomanufacturing"
+  },
+  {
+    "name": "gengalactic.com",
+    "url": "https://gengalactic.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Transforming the world\u00e2\u0080\u0099s energy supply chain \u00e2\u0080\u0093 making fossil-free fuel affordable and accessible, anywhere in the world."
+  },
+  {
+    "name": "www.giantswarm.io",
+    "url": "https://www.giantswarm.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Giant Swarm provides the open-source building blocks for custom Internal Developer Platforms, fully managed to reduce complexity and accelerate innovation."
+  },
+  {
+    "name": "www.gigs.tel",
+    "url": "https://www.gigs.tel/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Everything you need to launch a mobile service, from wholesale to cash in the bank. Launch an MVNO and issue white label SIMs for local cel\u2026"
+  },
+  {
+    "name": "glossier.com",
+    "url": "http://glossier.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Shop The New Beauty Essentials Exclusively At Glossier.com. Good Routines Start Here. Get the Makeup And Skincare Products Inspired By Real People And Their Routines."
+  },
+  {
+    "name": "www.goodcover.com",
+    "url": "https://www.goodcover.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Goodcover is modern insurance for renters. Get an online quote in seconds and adjust or cancel your coverage anytime. Protect your stuff worldwide and meet your landlord's liability requirement instantly."
+  },
+  {
+    "name": "gooddog.com",
+    "url": "http://gooddog.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true,
+    "description": "Find healthy, vet-checked puppies and dogs from trusted breeders and shelters. Easy to Apply. Arranged Transport. Free articles and resources. "
+  },
+  {
+    "name": "www.goose.pet",
+    "url": "https://www.goose.pet/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "From booking through revenue management, Goose helps pet care businesses provide better customer experiences and earns them more revenue per customer."
+  },
+  {
+    "name": "www.granular-energy.com",
+    "url": "https://www.granular-energy.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Granular Energy provides solutions for managing and trading clean energy. We are the leading provider of energy certificate management software for utilities, helping to streamline certificate managment processes and enabling utilities to launch next-generation green offers, including transparency down to the hourly level."
+  },
+  {
+    "name": "graphite.dev",
+    "url": "https://graphite.dev/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Graphite helps teams on GitHub deliver higher quality software, faster."
+  },
+  {
+    "name": "groupme.com",
+    "url": "http://groupme.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "The easy way to connect with all the groups in your life, big and small"
+  },
+  {
+    "name": "guideline.com",
+    "url": "http://guideline.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Guideline's full-service 401(k) plans make it easier and more affordable for growing businesses to offer their employees the retirement benefits they deserve."
+  },
+  {
+    "name": "handy.com",
+    "url": "http://handy.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "House cleaning, home cleaning, furniture assembly, TV mounting and other handyman services. Book in 60 seconds. Top-rated local professionals. Handy Happiness Guarantee."
+  },
+  {
+    "name": "harrys.com",
+    "url": "http://harrys.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "You deserve quality men\u2019s grooming products at a fair price. Shave supplies, skin care & hair styling products\u2014for every man. 100% quality guaranteed."
+  },
+  {
+    "name": "www.haus.io",
+    "url": "https://www.haus.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Measure incrementality and allocate budget efficiently with Haus - your marketing science & experimentation platform to maximize growth."
+  },
+  {
+    "name": "www.havenservicing.com",
+    "url": "https://www.havenservicing.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Haven is a digital relationship platform purpose built for Servicers, Subservicers, and Lenders to engage and retain homeowners."
+  },
+  {
+    "name": "haystack.so",
+    "url": "https://haystack.so/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "A home base for employees, no matter where they work."
+  },
+  {
+    "name": "www.helical-ai.com",
+    "url": "https://www.helical-ai.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "The full power of DNA & (m)RNA Bio Foundation Models in one open-core platform. Accelerate Drug Discovery with AI."
+  },
+  {
+    "name": "www.herondata.io",
+    "url": "https://www.herondata.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Heron's AI\u00c2\u00a0automates document intake, extraction, enrichment, and syncs structured data directly to your CRM or system of record."
+  },
+  {
+    "name": "hex.site",
+    "url": "https://hex.site",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "From quick queries, to deep-dive analyses, to beautiful interactive data apps \u2013 all in one collaborative, AI-powered workspace."
+  },
+  {
+    "name": "www.joinhighrise.com",
+    "url": "http://www.joinhighrise.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Highrise is the easiest way to create your avatar identity, meet friends, stay in the loop, and explore a magical virtual world - all on your phone."
+  },
+  {
+    "name": "store.epicgames.com",
+    "url": "https://store.epicgames.com/en-US/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "hyperscience.com",
+    "url": "http://hyperscience.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Hyperscience helps you automate your document processes and turn unstructured content into structured actionable data. Find out more!"
+  },
+  {
+    "name": "id.me",
+    "url": "http://id.me",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "ifttt.com",
+    "url": "http://ifttt.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Get started with IFTTT, the easiest way to automate your favorite apps and devices for free. Make your home more relaxing. Make your work more productive. We..."
+  },
+  {
+    "name": "www.imprint.co",
+    "url": "https://www.imprint.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Meet the powerful, purpose-built co-branded products that seamlessly adapt to your brand."
+  },
+  {
+    "name": "www.getindustrial.ai",
+    "url": "https://www.getindustrial.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "AI to Unlock Smart Manufacturing"
+  },
+  {
+    "name": "intello.io",
+    "url": "http://intello.io",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "www.iverify.io",
+    "url": "https://www.iverify.io",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Easy to deploy, privacy-respecting mobile threat protection for enterprises."
+  },
+  {
+    "name": "www.j2health.com",
+    "url": "https://www.j2health.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "jam.dev",
+    "url": "http://jam.dev",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Report bugs in seconds, and get back to what you were doing. It's as easy as taking a screenshot. Fast for you, and perfect for the engineers."
+  },
+  {
+    "name": "jetfuel.it",
+    "url": "https://jetfuel.it/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Liftoff Influence is the leading influencer marketing platform that empowers advertisers to scale and succeed in the creator economy."
+  },
+  {
+    "name": "www.jetify.com",
+    "url": "https://www.jetify.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Jetify TestPilot is an AI agent that automatically creates, maintains and executes resilient end-to-end tests without human intervention."
+  },
+  {
+    "name": "jetty.com",
+    "url": "http://jetty.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Jetty is the financial services company for real estate. Our products are designed to improve the financial lives of renters and their property managers."
+  },
+  {
+    "name": "www.jiminihealth.com",
+    "url": "https://www.jiminihealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "kasa.com",
+    "url": "https://kasa.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Kasa offers professionally-managed apart-hotel rooms and hotel rooms at sensible prices. Book your Kasa online today."
+  },
+  {
+    "name": "www.keychain.com",
+    "url": "https://www.keychain.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "khealth.ai",
+    "url": "http://khealth.ai",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "We pair clinicians with advanced AI to provide data-driven, personalized care around the clock. Chat with your medical team today."
+  },
+  {
+    "name": "www.kineuphorics.com",
+    "url": "http://www.kineuphorics.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Founded by Jen Batchelor & Bella Hadid, experience Kin Euphorics - a new category of non-alcoholic drinks & spirits that function as fresh ways to socialize, relax & set your mind free."
+  },
+  {
+    "name": "livekindred.com",
+    "url": "https://livekindred.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Experience authentic travel through Kindred\u2019s home exchange community. Swap homes and explore the world for less."
+  },
+  {
+    "name": "koala.health",
+    "url": "https://koala.health/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "www.usekojo.com",
+    "url": "https://www.usekojo.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Kojo is the construction industry\u00e2\u0080\u0099s leading materials management software and purchasing software solution, helping contractors streamline material procurement and save money."
+  },
+  {
+    "name": "www.kulabio.com",
+    "url": "https://www.kulabio.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Discover Kula Bio. Our technology harnesses the benefits of earth\u00e2\u0080\u0099s microbes to feed crops more efficiently, improving yield and reducing environmental impacts."
+  },
+  {
+    "name": "kustomer.com",
+    "url": "http://kustomer.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "With Kustomer, deliver faster, richer experiences to your customers with omnichannel messaging, a unified customer view, and AI-powered automations."
+  },
+  {
+    "name": "landa.app",
+    "url": "https://landa.app",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Discover top real estate investment opportunities with Landa, the premier platform for real estate investing. Elevate your real estate portfolio."
+  },
+  {
+    "name": "www.linkedin.com",
+    "url": "https://www.linkedin.com/company/learned-hand/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Learned Hand | 91 followers on LinkedIn. Learned Hand is building AI for judges so they can spend less time getting it done and more time getting it right. | Learned Hand is building AI for judges so they can spend less time getting it done and more time getting it right."
+  },
+  {
+    "name": "www.lekko.com",
+    "url": "https://www.lekko.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Dynamically configure your software without redeployments. With Lekko, engineers can focus on executing and safely hand off daily reconfigurations."
+  },
+  {
+    "name": "level.com",
+    "url": "https://level.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Level is your modern benefits toolkit. We help you design and deliver flexible benefits, from lifestyle spending accounts to dental and vision plans \u00e2\u0080\u0094 all accessible on one payment card and app."
+  },
+  {
+    "name": "lever.co",
+    "url": "http://lever.co",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Find, nurture, and hire the best talent easily and efficiently with Lever\u2019s powerful recruiting software. Elevate your hiring results and book a demo today"
+  },
+  {
+    "name": "www.lido.app",
+    "url": "https://www.lido.app",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Lido is the fastest and most accurate way to convert PDFs into Excel.  Works with all PDFs, including scanned documents."
+  },
+  {
+    "name": "light.dev",
+    "url": "https://light.dev/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "We enable any company to be a power company. We work with innovative companies to offer a range of electricity plans and services, made available to you through our partners."
+  },
+  {
+    "name": "www.littleotterhealth.com",
+    "url": "https://www.littleotterhealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Little Otter provides virtual mental health care services for every family and every family member. Care tailored to your needs, no matter what your family looks like."
+  },
+  {
+    "name": "livepeer.org",
+    "url": "http://livepeer.org",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Livepeer is a decentralized network for limitless video computing, enabling AI processing and transcoding jobs to power the future of video."
+  },
+  {
+    "name": "loops.so",
+    "url": "https://loops.so/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Loops makes email marketing for modern SaaS companies easy. It's the best way to create, send and track beautiful email campaigns."
+  },
+  {
+    "name": "loyalfordogs.com",
+    "url": "https://loyalfordogs.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Loyal is a clinical-stage veterinary medicine company working on giving dogs longer, healthier lives."
+  },
+  {
+    "name": "www.machindustries.com",
+    "url": "https://www.machindustries.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "www.macro.com",
+    "url": "https://www.macro.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Macro - the next generation productivity suite"
+  },
+  {
+    "name": "www.getmagical.com",
+    "url": "https://www.getmagical.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Connect any two apps or websites and automate work between them\u00e2\u0080\u0094no integrations required. Magical is an AI agent that autofills forms, databases, and messages."
+  },
+  {
+    "name": "www.mammoth-hq.com",
+    "url": "https://www.mammoth-hq.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Mammoth uses AI to create a universal model of your supply chain in the cloud and turn fragmented data into actionable insights. Revolutionize how you plan and manage your supply chain."
+  },
+  {
+    "name": "www.manifestcyber.com",
+    "url": "https://www.manifestcyber.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Manifest secures the software supply chains of the world's most critical institutions with complete SBOM and vulnerability management and automated compliance."
+  },
+  {
+    "name": "mantl.com",
+    "url": "http://mantl.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "MANTL helps banks and credit unions open more accounts across more channels with the highest-performing origination software on the market."
+  },
+  {
+    "name": "www.growmaple.com",
+    "url": "https://www.growmaple.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "A free family organizer that includes a shared family calendar, collaborative to-do lists, meal planning, and limitless customization to fit your family\u00e2\u0080\u0099s needs"
+  },
+  {
+    "name": "matik.io",
+    "url": "http://matik.io",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Create personalized data-driven presentations tailored to your audience in minutes. Streamline your workflow with our business content automation software."
+  },
+  {
+    "name": "matterport.com",
+    "url": "http://matterport.com",
+    "is_ipo": true,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Our 3D cameras and virtual tour software platform help you digitize your building, automatically create 3D tours, 4K print quality photos, schematic f"
+  },
+  {
+    "name": "www.mavenclinic.com",
+    "url": "http://www.mavenclinic.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Maven helps companies retain diverse talent, improve health outcomes, and reduce maternity and fertility costs.  We support every path to parenthood: Pregnancy, Fertility, Egg Freezing, Adoption, Surrogacy, Infant Care, Breastmilk Shipping, and Manager Training."
+  },
+  {
+    "name": "withmaza.com",
+    "url": "https://withmaza.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "\u00c2\u00bfVives en Estados Unidos sin un n\u00c3\u00bamero de Seguro Social? Obt\u00c3\u00a9n tu ITIN y haz crecer tu dinero hacia tu sue\u00c3\u00b1o americano con un bono anual de 5.00%*."
+  },
+  {
+    "name": "medallion.co",
+    "url": "https://medallion.co",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Healthcare operations reimagined. Medallion's integrated provider network management platform automates credentialing, enrollment and licensing, enabling\u2026"
+  },
+  {
+    "name": "www.getmercantile.com",
+    "url": "https://www.getmercantile.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Partner with Mercantile and offer your customers custom branded business credit cards that deliver group purchasing and up to thousands off association dues."
+  },
+  {
+    "name": "www.merlinlabs.com",
+    "url": "https://www.merlinlabs.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "m3ter.com",
+    "url": "https://m3ter.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "m3ter is revolutionizing usage-based billing for B2B software scale-ups by automating complex bill calculations and integrations."
+  },
+  {
+    "name": "www.miluhealth.com",
+    "url": "https://www.miluhealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Milu is an employee benefit that connects to electronic health record data from over 40,000 health institutions to find big savings and high quality care for employees."
+  },
+  {
+    "name": "www.mirror.co",
+    "url": "https://www.mirror.co/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "modernanimal.com",
+    "url": "http://modernanimal.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "www.modernfertility.com",
+    "url": "https://www.modernfertility.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Reproductive health testing and support made easy. Order a customized fertility hormone test from the comfort of your home with physician reviewed results."
+  },
+  {
+    "name": "www.molecule.to",
+    "url": "https://www.molecule.to/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Funding and tokenization platform for biopharma intellectual property."
+  },
+  {
+    "name": "www.tumomento.com",
+    "url": "https://www.tumomento.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Momento Seguros es la nueva aseguradora mexicana que viene a ofrecerte un seguro de auto innovador, honesto y f\u00e1cil de usar y entender que te har\u00e1 la vida m\u00e1s simple, a un gran precio."
+  },
+  {
+    "name": "en.getmoss.com",
+    "url": "https://en.getmoss.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "www.mothergames.com",
+    "url": "https://www.mothergames.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "MOTHER GAMES. Creating transformative experiences through game play. Currently developing our first mobile game, Le Zoo."
+  },
+  {
+    "name": "www.mountaintop.gg",
+    "url": "https://www.mountaintop.gg/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Mountaintop"
+  },
+  {
+    "name": "www.withmultiply.com",
+    "url": "https://www.withmultiply.com/about",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "www.neros.tech",
+    "url": "https://www.neros.tech/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Neros is vertically integrating production of unmanned defense systems in the United States, securing the autonomous supply chain. Are you with us?"
+  },
+  {
+    "name": "www.netomi.com",
+    "url": "https://www.netomi.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "AI customer service and support takes care of the customers you work hard to win. More than a chatbot, discover Netomi's automated customer service."
+  },
+  {
+    "name": "twitter.com",
+    "url": "https://twitter.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "www.nominal.io",
+    "url": "https://www.nominal.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Nominal powers mission-critical engineering with advanced data infrastructure, real-time observability, and analysis tools \u2014 all in one collaborative platform."
+  },
+  {
+    "name": "www.northwoodspace.io",
+    "url": "https://www.northwoodspace.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Northwood is rethinking shared infrastructure for satellite backhaul to expand access to space. This means more benefits from space reach more lives on earth and beyond."
+  },
+  {
+    "name": "us.nothing.tech",
+    "url": "https://us.nothing.tech/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Here at Nothing, we\u2019re building a world where tech is fun again. Remember a time where every new product made you excited? We\u2019re bringing that back."
+  },
+  {
+    "name": "www.usenourish.com",
+    "url": "https://www.usenourish.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Achieve your desired health and wellness through personalized nutrition counseling. Nourish is the easiest way to find a registered dietitian and get it covered by your insurance. Find a dietitian today and start your telehealth appointments."
+  },
+  {
+    "name": "www.bynovella.com",
+    "url": "https://www.bynovella.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true,
+    "description": "Find E&S coverage in minutes. Commercial Property, General Liability and more coverages instantly when you submit a risk"
+  },
+  {
+    "name": "www.banknovo.com",
+    "url": "https://www.banknovo.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Novo is an online business banking platform with no hidden fees built for small business owners. Apply for a free Novo checking account."
+  },
+  {
+    "name": "numberfire.com",
+    "url": "http://numberfire.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "numberFire uses the powers of quantitative analysis to deliver the best projections and rankings for daily fantasy sports, including NFL, MLB, NBA and more!"
+  },
+  {
+    "name": "nuorder.com",
+    "url": "http://nuorder.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Unleash your true potential with NuORDER by Lightspeed. The leading B2B platform powering commerce for the world's best brands and retailers."
+  },
+  {
+    "name": "nuvo.com",
+    "url": "https://nuvo.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "The only onboarding platform with native fraud prevention and automated credit risk assessment from a portfolio of credit risk insights."
+  },
+  {
+    "name": "odeko.com",
+    "url": "https://odeko.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "From essentials to extras, if your caf\u00e9 needs it\u2014we have it. Discover the all-in-one operations partner for local caf\u00e9s and eateries."
+  },
+  {
+    "name": "www.exploreomni.com",
+    "url": "https://www.exploreomni.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Explore, visualize, and model data your way with Omni. From spreadsheets to SQL\u00e2\u0080\u0094in a single platform."
+  },
+  {
+    "name": "www.onechronos.com",
+    "url": "https://www.onechronos.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "OneChronos ATS: The Smart Market for Institutional Investors"
+  },
+  {
+    "name": "www.oneschema.co",
+    "url": "https://www.oneschema.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Embed our fully customizable, one-click CSV importer to save months of development time and accelerate your product roadmap."
+  },
+  {
+    "name": "opal.dev",
+    "url": "https://opal.dev/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Opal is the identity and access security platform for modern enterprises. Explore our platform to reduce risks, streamline workflows, and achieve least privilege at scale."
+  },
+  {
+    "name": "openspace.ai",
+    "url": "http://openspace.ai",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "We provide next-generation reality capture software, powerful integrations & the smartest analytics tools available!"
+  },
+  {
+    "name": "www.orum.io",
+    "url": "https://www.orum.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Orum transforms payment technology for businesses, revolutionizing payment speed, certainty, and orchestration through unified API-based solutions."
+  },
+  {
+    "name": "hioscar.com",
+    "url": "http://hioscar.com",
+    "is_ipo": true,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Oscar offers health insurance plans for individuals and families and employers. Find a plan that's right for you."
+  },
+  {
+    "name": "itsovertime.com",
+    "url": "http://itsovertime.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Overtime is the leading brand for the next generation of sports fans. As both a publisher and an influencer, we've built the inclusive world of sports we all wish was the norm by giving a platform to our community to be seen AND heard."
+  },
+  {
+    "name": "www.joinowners.com",
+    "url": "https://www.joinowners.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Creamos tu propio sitio web por ti"
+  },
+  {
+    "name": "www.pahdolabs.com",
+    "url": "https://www.pahdolabs.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "trypallet.com",
+    "url": "https://trypallet.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Pallet is a all-in-one logistics solution that integrates a Transportation Management System (TMS) and Warehouse Management System (WMS), to billing and reporting.  Schedule a demo to see the future of modern freight businesses."
+  },
+  {
+    "name": "palmetto.com",
+    "url": "http://palmetto.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Save on your electricity bill with a solar energy system from Palmetto, a trusted clean energy company that makes going solar easy and affordable."
+  },
+  {
+    "name": "paperspace.com",
+    "url": "http://paperspace.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Accelerate AI training, power complex simulations, and render faster with NVIDIA H100 GPUs on Paperspace. Easy setup, cost-effective cloud compute."
+  },
+  {
+    "name": "parkade.com",
+    "url": "https://parkade.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Parkade streamlines resident and guest parking at apartment buildings. Our system connects with your PMS to automate reservations, payment, enforcement, gate access and more."
+  },
+  {
+    "name": "paytient.co",
+    "url": "http://paytient.co",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Unlock access to care for the whole family with a Paytient Health Payment Account. No interest, no fees, and no credit check to open an account."
+  },
+  {
+    "name": "www.usepepper.com",
+    "url": "https://www.usepepper.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Pepper\u00e2\u0080\u0099s all-in-one eCommerce solution helps independent food distributors reach new customers, increase sales, and improve operational efficiency."
+  },
+  {
+    "name": "phaselab.co",
+    "url": "https://phaselab.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Document redaction, modernized."
+  },
+  {
+    "name": "www.photon.health",
+    "url": "https://www.photon.health/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Photon is a modern prescription network built for a patient-first pharmacy experience."
+  },
+  {
+    "name": "www.picklerobot.com",
+    "url": "https://www.picklerobot.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "We believe the best working experience is one where machines do the heavy lifting and people do the problem solving."
+  },
+  {
+    "name": "pika.earth",
+    "url": "https://pika.earth/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "We help HVAC, plumbing and electrical contractors increase their close rate with a differentiated in-home sales experience. Trusted by some of America's fastest-growing businesses in 18 states."
+  },
+  {
+    "name": "pillpack.com",
+    "url": "http://pillpack.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "We\u2019re a full-service online pharmacy that packages your medication and delivers to your door every month."
+  },
+  {
+    "name": "www.pineparkhealth.com",
+    "url": "https://www.pineparkhealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Get high-quality medical care in the comfort of home from primary care providers who listen and can see you for urgent issues."
+  },
+  {
+    "name": "planetscale.com",
+    "url": "https://planetscale.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "PlanetScale is the world\u00e2\u0080\u0099s most advanced, fully-managed MySQL database platform. Scale, performance, and reliability, powered by Vitess."
+  },
+  {
+    "name": "plover.insure",
+    "url": "https://plover.insure/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Plover is a specialty brokerage that helps brokers win new business and retain clients with alternative insurance products."
+  },
+  {
+    "name": "www.pocus.com",
+    "url": "https://www.pocus.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Help 10x sales teams with AI-driven sales playbooks, account research, and prospecting. Equip reps with precise signals to power every GTM playbook across the entire customer journey."
+  },
+  {
+    "name": "pomelo.la",
+    "url": "https://pomelo.la/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Tecnolog\u00eda para emisi\u00f3n, procesamiento y gesti\u00f3n de tarjetas de cr\u00e9dito, d\u00e9bito y prepago en Am\u00e9rica Latina."
+  },
+  {
+    "name": "www.pomelocare.com",
+    "url": "https://www.pomelocare.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Pomelo is a virtual maternity care program that supplements traditional pregnancy care with unlimited, customized support. Ask a dietitian about prenatal vitamins, speak to a therapist about labor anxiety, or join a prenatal group. Become a member today for free."
+  },
+  {
+    "name": "www.palantir.com",
+    "url": "https://www.palantir.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Foundational Software of Tomorrow. Delivered Today.\u00e2\u0084\u00a2"
+  },
+  {
+    "name": "postgresml.org",
+    "url": "https://postgresml.org/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Build AI apps in minutes with a GPU-powered Postgres database"
+  },
+  {
+    "name": "www.prima.ai",
+    "url": "https://www.prima.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Reliable manufacturing & supply chain partner for custom parts, metal fabrication & efficient sourcing from Mexico. Manage design, production & delivery"
+  },
+  {
+    "name": "www.privy.io",
+    "url": "https://www.privy.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Securely onboard, activate, and manage your users at scale."
+  },
+  {
+    "name": "prooftrading.com",
+    "url": "https://prooftrading.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "www.prophetic.com",
+    "url": "https://www.prophetic.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Generated by create next app"
+  },
+  {
+    "name": "www.prosperhealth.io",
+    "url": "https://www.prosperhealth.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Prosper Health provides autism testing and therapy to adults. Our therapy is affirming and strength-based. We adapt our care specifically for autistic adults."
+  },
+  {
+    "name": "www.withpulley.com",
+    "url": "https://www.withpulley.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Get construction permits faster by leveraging Pulley\u00e2\u0080\u0099s all-in-one permitting platform. Simplified, accelerated permitting for retailers, general contractors, owners, homebuilders, and more."
+  },
+  {
+    "name": "radiantai.com",
+    "url": "https://radiantai.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Radiant builds software to run AI applications at production scale. Use Radiant to comprehend, troubleshoot, and align your AI products to what you and your users need."
+  },
+  {
+    "name": "www.rainforestpay.com",
+    "url": "https://www.rainforestpay.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Embed payments into your product or platform with Rainforest\u2019s configurable, low-code components. Accept and send payments, minimize risk and compliance headaches, and grow revenue."
+  },
+  {
+    "name": "rankscience.com",
+    "url": "http://rankscience.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "The RankScience team provides expert SEO services and builds AI-powered SEO software. We ensure you dominate every aspect of SEO."
+  },
+  {
+    "name": "www.salesforce.com",
+    "url": "https://www.salesforce.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Salesforce, the #1 AI CRM, enables companies to connect with customers through a unified Einstein 1 platform that combines CRM, AI, Data, and Trust."
+  },
+  {
+    "name": "www.reducto.ai",
+    "url": "https://www.reducto.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Reducto is an API that provides high quality data ingestion for large language models (LLMs). It works with any vector database or embedding system. It can parse PDFs, Excel, PowerPoint, and more."
+  },
+  {
+    "name": "reflex.dev",
+    "url": "https://reflex.dev/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "The open-source framework to build and deploy web apps using Python."
+  },
+  {
+    "name": "www.remedyscientific.com",
+    "url": "https://www.remedyscientific.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Remedy decontaminates land with scalable, AI-driven systems, advanced chemistry and precise sensors, restoring sites to their full productive potential."
+  },
+  {
+    "name": "www.renewafi.com",
+    "url": "https://www.renewafi.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "RenewaFi provides offtake price transparency and liquidity by combining a neutral price tracker with an anonymous marketplace."
+  },
+  {
+    "name": "retro.app",
+    "url": "https://retro.app/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "A friends-only photo journal for moments big and small"
+  },
+  {
+    "name": "www.ginkgobioworks.com",
+    "url": "https://www.ginkgobioworks.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Headquartered in Boston, Ginkgo Bioworks uses the most advanced technology on the planet\u2014biology\u2014to grow better products. Our cell programming platform enables the growth of biotechnology across diverse markets, from food to fragrance to pharmaceuticals."
+  },
+  {
+    "name": "www.ribbonhealth.com",
+    "url": "https://www.ribbonhealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "H1 helps life sciences, pharma, health plans and digital health organizations identify key providers and prescribers, accelerate clinical trials, and advance patient care everywhere."
+  },
+  {
+    "name": "rightfoot.com",
+    "url": "http://rightfoot.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Rightfoot is a financial data provider giving lenders access to millions of borrower accounts \u00e2\u0080\u0094 without the burden of logging in."
+  },
+  {
+    "name": "www.rillet.com",
+    "url": "https://www.rillet.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Rillet automates majority of month-end close and offers powerful GAAP and SaaS reporting. The software has built-in revenue recognition, invoicing, and AI-powered accounting."
+  },
+  {
+    "name": "www.rogodata.com",
+    "url": "https://www.rogodata.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Rogo is the secure generative AI (GenAI) platform built for elite financial institutions. Save time, unlock insights and automate workflows in days."
+  },
+  {
+    "name": "www.ronja.tech",
+    "url": "https://www.ronja.tech/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "rose.ai",
+    "url": "https://rose.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "routable.com",
+    "url": "https://routable.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Automate invoice processing and payments, onboard vendors seamlessly, customize approval flows, and more \u2014 for 30% less."
+  },
+  {
+    "name": "www.routine.co",
+    "url": "https://www.routine.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Routine is the most advanced calendar app, combining tasks & notes to supercharge your productivity. Available on iOS, macOS & Windows."
+  },
+  {
+    "name": "www.salientmotion.com",
+    "url": "https://www.salientmotion.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "A next-generation supplier for aerospace and defense, specializing in advanced electric propulsion."
+  },
+  {
+    "name": "sandbar.ai",
+    "url": "https://sandbar.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Sandbar is the leading cross-border anti-money laundering (AML) platform for financial services startups and enterprises, empowering risk and compliance teams with screening and transaction monitoring capabilities."
+  },
+  {
+    "name": "jobs.ashbyhq.com",
+    "url": "https://jobs.ashbyhq.com/sauronhome",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "www.savvywealth.com",
+    "url": "https://www.savvywealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "When you sign up with one of our Wealth Managers you receive a personalized financial roadmap tailored to your unique goals, designed to assist you in growing and safeguarding your assets for a secure financial future."
+  },
+  {
+    "name": "seatme.com",
+    "url": "http://seatme.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "secureframe.com",
+    "url": "http://secureframe.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Get compliant, mitigate risk, and build trust with customers\u2028using automation backed by world-class experts."
+  },
+  {
+    "name": "seed.com",
+    "url": "https://seed.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "sense360.com",
+    "url": "http://sense360.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "sevenrooms.com",
+    "url": "http://sevenrooms.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Grow your hospitality business with an all-in-one marketing and operations platform that has built-in guest analytics, integrations and more."
+  },
+  {
+    "name": "www.theshellworks.com",
+    "url": "https://www.theshellworks.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Shellworks collaborates with nature to create innovative, and uncompromising packaging solutions. Our bio-based material called Vivomer is a home compostable alternative to single-use plastic."
+  },
+  {
+    "name": "goshippo.com",
+    "url": "https://goshippo.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Shippo is the best multi-carrier shipping software for e-commerce businesses. Find the best shipping rates, integrate with e-commerce platforms, print shipping labels, track package delivery, and verify addresses with either our shipping API or web app."
+  },
+  {
+    "name": "shipwell.com",
+    "url": "http://shipwell.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Transportation Management System platform, 3PL and 4PL enables supply chain visibility and efficiency. Shipwell saves US suppliers time and money."
+  },
+  {
+    "name": "clubhouse.io",
+    "url": "http://clubhouse.io",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true,
+    "description": "Shortcut aligns product development work with company objectives so teams can execute with a shared purpose."
+  },
+  {
+    "name": "www.simondata.com",
+    "url": "https://www.simondata.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Simon Data is more than a CDP\u00e2\u0080\u0094we give marketers the data, technology, and expert resources they need to stop guessing and start delivering what customers want."
+  },
+  {
+    "name": "simperium.com",
+    "url": "http://simperium.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Simperium is a cross-platform data sync service."
+  },
+  {
+    "name": "skillshare.com",
+    "url": "http://skillshare.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "skysafe.io",
+    "url": "http://skysafe.io",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "SkySafe\u2019s advanced drone detection technology enables organizations to identify, track, and analyze drone activity."
+  },
+  {
+    "name": "www.slingshot.xyz",
+    "url": "https://www.slingshot.xyz/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Transforming the mental health landscape through groundbreaking AI research"
+  },
+  {
+    "name": "smartthings.com",
+    "url": "http://smartthings.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "SmartThings makes your home smarter. Meet the innovative new SmartThings features that enhance home automation and simplify your daily life."
+  },
+  {
+    "name": "smithrx.com",
+    "url": "http://smithrx.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "SmithRx provides employers and members with the lowest-cost pathways to medications through unmatched clarity, affordability, and care. Clear pricing. Full savings. People first."
+  },
+  {
+    "name": "www.snackpass.co",
+    "url": "https://www.snackpass.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Built for growth."
+  },
+  {
+    "name": "sora.co",
+    "url": "https://sora.co",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "spacious.com",
+    "url": "http://spacious.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "www.sphinxbio.com",
+    "url": "https://www.sphinxbio.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Sphinx is the modern biotech data platform. Analyze your data, run the lastest AI models, and keep track of your experiments and data. Supercharge your wet lab workflows today."
+  },
+  {
+    "name": "splashthat.com",
+    "url": "http://splashthat.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "splice.com",
+    "url": "http://splice.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Splice is the industry&#x27;s highest quality, royalty-free sample library. Get access to millions of sounds made by top artists, labels, and sound designers."
+  },
+  {
+    "name": "spoonuniversity.com",
+    "url": "http://spoonuniversity.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "www.shoprunner.com",
+    "url": "https://www.shoprunner.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": true,
+    "description": null
+  },
+  {
+    "name": "standardbots.com",
+    "url": "http://standardbots.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Smarter robots, brighter future."
+  },
+  {
+    "name": "stedi.com",
+    "url": "http://stedi.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Automate transactions like real-time eligibility checks and claims processing with developer-friendly, JSON-based APIs that support thousands of payers. \n\n"
+  },
+  {
+    "name": "stord.com",
+    "url": "http://stord.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Stord offers fulfillment, warehousing, and transportation for DTC and B2B, plus the integrated software you need to provide your end consumers with the best pre-purchase and post-delivery consumer experience. No matter your product, Stord is ready to power your commerce."
+  },
+  {
+    "name": "strangeworks.com",
+    "url": "https://strangeworks.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "streak.com",
+    "url": "http://streak.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Simple Collaboration. Collaborate with a single click. Share contacts, email, files, and anything else needed to get the job done. Multipurpose. Manage your deals, support queue (and more) inside Gmail. Replace multiple external systems with Streak. Works with Google Apps. Streak connects securely to Google Apps."
+  },
+  {
+    "name": "studspiercing.com",
+    "url": "https://studspiercing.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "We offer safe and expert ear-piercing services with needles and a wide assortment of cute, high-quality earrings to create your dream Earscape\u00ae."
+  },
+  {
+    "name": "www.summerhealth.com",
+    "url": "https://www.summerhealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Text directly with pediatricians for clear guidance you can count on. Your monthly subscription to Summer Health gets you answers in under 15 minutes, 24/7, 365."
+  },
+  {
+    "name": "sundaysfordogs.com",
+    "url": "https://sundaysfordogs.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Air dried dog food that's human-grade and delivered right to your door. Vet-designed recipes made in USA facilities without the mess or prep of typical fresh or raw recipes."
+  },
+  {
+    "name": "www.microsoft.com",
+    "url": "https://www.microsoft.com/en-us/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "www.thesuperbill.com",
+    "url": "https://www.thesuperbill.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Stop waiting on hold with insurance. Harness the power of AI to automate your payer calls."
+  },
+  {
+    "name": "superhuman.com",
+    "url": "http://superhuman.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Collaborate faster and get more done with AI-powered email. Save 4 hours per person every single week. "
+  },
+  {
+    "name": "supp.co",
+    "url": "https://supp.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Supplements should improve your health, not confuse you. SuppCo is the world's first real supplement tracker and optimizer. Sign up today!"
+  },
+  {
+    "name": "www.joinswsh.com",
+    "url": "https://www.joinswsh.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "swsh is the easiest way to find photos of you after an event."
+  },
+  {
+    "name": "tagomi.com",
+    "url": "http://tagomi.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "withtandem.com",
+    "url": "https://withtandem.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Tandem helps you get your medicine as quickly and cheaply as possible."
+  },
+  {
+    "name": "law.tavrn.art",
+    "url": "https://law.tavrn.art/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Tavrn provides state of the art, AI-powered demand letters and medical chronologies for attorneys."
+  },
+  {
+    "name": "www.zira.ai",
+    "url": "http://www.zira.ai",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "The only workforce management platform tailored to your needs. Simplify scheduling, enhance compliance, and boost productivity with TeamBridge."
+  },
+  {
+    "name": "telegraph.io",
+    "url": "https://telegraph.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Telegraph's cloud-based operating system uses cutting-edge technology to bring instant visibility and seamless logistics to the freight rail supply chain."
+  },
+  {
+    "name": "tempestdx.com",
+    "url": "https://tempestdx.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "An enterprise-grade developer platform that automates your developer journey, catalogs your services, and scales effortlessly - ready to use in days, not years."
+  },
+  {
+    "name": "terminal49.com",
+    "url": "http://terminal49.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Track & trace all your containers with a single dashboard and a modern API that alerts you when containers need attention. Our ocean freight tracking data covers 98% of global container traffic."
+  },
+  {
+    "name": "things.inc",
+    "url": "https://things.inc/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Things, Inc. is an award winning startup creating software that promotes collaborative creation and emergent play."
+  },
+  {
+    "name": "thinknear.com",
+    "url": "http://thinknear.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "GeoLink is the highest performing self-service location-based platform available today. Drive 6.5x* greater performance with exclusive access to InMarket's Moments inventory!"
+  },
+  {
+    "name": "www.timbereye.com",
+    "url": "https://www.timbereye.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "TimberEye: Log Export Automation"
+  },
+  {
+    "name": "tinfoilsecurity.com",
+    "url": "http://tinfoilsecurity.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Identify web app vulnerabilities with Continuous Dynamic, a comprehensive DAST security solution. Perform dynamic testing and enhance your AppSec."
+  },
+  {
+    "name": "www.titanvest.com",
+    "url": "https://www.titanvest.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Professional investment management without the high fees and minimums. Get your own in-house investment team that actively manages your portfolio, gives guidance and keeps you updated along the way."
+  },
+  {
+    "name": "www.tomorrowhealth.com",
+    "url": "https://www.tomorrowhealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "trello.com",
+    "url": "http://trello.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Make the impossible, possible with Trello. The ultimate teamwork project management tool. Start up a board in seconds, automate tedious tasks, and collaborate anywhere, even on mobile."
+  },
+  {
+    "name": "www.triumpharcade.com",
+    "url": "https://www.triumpharcade.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": ""
+  },
+  {
+    "name": "trueaccord.com",
+    "url": "http://trueaccord.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "TrueAccord is the industry leading recovery and collections platform powered by machine learning and a consumer friendly digital experience."
+  },
+  {
+    "name": "www.truemed.com",
+    "url": "https://www.truemed.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Shop essentials with HSA/FSA funds! Get savings on qualified exercise equipment, supplements, and health tech, maximizing your pre-tax dollars with Truemed"
+  },
+  {
+    "name": "www.truepill.com",
+    "url": "https://www.truepill.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Truepill technology and services help businesses build, manage and scale their pharmacy experience."
+  },
+  {
+    "name": "www.trustlayer.io",
+    "url": "https://www.trustlayer.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "TrustLayer - A risk management platform automating the verification of insurance, licenses, and compliance docs. Reducing business friction and enhancing trust."
+  },
+  {
+    "name": "www.tunicpay.com",
+    "url": "https://www.tunicpay.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Tunic Pay is a startup in London solving APP fraud with recipient verification & payment conditionality. We digitize and enrich scam investigations to turbo charge your team and reduce fraud losses."
+  },
+  {
+    "name": "turquoise.health",
+    "url": "https://turquoise.health/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "\n    \n"
+  },
+  {
+    "name": "tuvahealth.com",
+    "url": "https://tuvahealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Accelerating healthcare analytics and clinical research with the world\u2019s first open-source healthcare data platform"
+  },
+  {
+    "name": "umaproject.org",
+    "url": "https://umaproject.org/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "UMA is a blockchain oracle which trustlessly records any verifiable data on the blockchain."
+  },
+  {
+    "name": "askumbrella.com",
+    "url": "https://askumbrella.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Discover our services Wondering if Sidepost is available near you? Simply enter your postcode below to check prices and avilability for your area. Check Prices and Availability Reviews Excellent Over 120 reviews on Trustpilot Whatever home service you require, Sidepost has it covered. We've got top-rated cleaners and contractors all across Australia, ready to help"
+  },
+  {
+    "name": "onuniverse.com",
+    "url": "http://onuniverse.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true,
+    "description": "Universe is a website builder that lets you choose a domain and set up shop in minutes. Build stores, link in bio sites, and more from your mobile phone, iPad, or Mac."
+  },
+  {
+    "name": "upnext.com",
+    "url": "http://upnext.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "upsidefoods.com",
+    "url": "http://upsidefoods.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Growing meat directly from animal cells."
+  },
+  {
+    "name": "valdera.com",
+    "url": "https://valdera.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Valdera is the sourcing and procurement platform that makes it easy to buy or sell chemicals, ingredients, and raw materials. We partner with segment leaders, ranging from the world's largest CPG manufacturers to household names in the beauty industry."
+  },
+  {
+    "name": "www.valur.io",
+    "url": "https://www.valur.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Tax planning with Valur is the easiest way to reduce your taxes on capital gains, ordinary income, carried interest, and more. Create a tax plan today!"
+  },
+  {
+    "name": "www.airbnb.com",
+    "url": "https://www.airbnb.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Get an Airbnb for every kind of trip \u2192 7 million vacation rentals \u2192 2 million Guest Favorites \u2192 220+ countries and regions worldwide"
+  },
+  {
+    "name": "www.vana.xyz",
+    "url": "https://www.vana.xyz/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Welcome to Vana, where users control their data and contribute to decentralized AI. Explore data DAOs, marketplaces, and projects like r/datadao, Volara, and Flirtual."
+  },
+  {
+    "name": "veefriends.com",
+    "url": "https://veefriends.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "VeeFriends is an innovative entertainment company that uses its unique art, compelling storytelling, and collectibles to enhance its intellectual property. We're on a mission to elevate the prominence of our 283 characters, turning soft skills into the new cool and instigating a worldwide movement promoting positivity, kindness, and accountability. By merging technology with media, content, and engaging events, VeeFriends builds an inclusive community that celebrates self-discovery, encourages responsibility, and radiates happiness."
+  },
+  {
+    "name": "vertoeducation.org",
+    "url": "https://vertoeducation.org",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Spend your first year of college traveling abroad with other students while earning credit and access to 70+ partner colleges."
+  },
+  {
+    "name": "viaduct.ai",
+    "url": "https://viaduct.ai",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "AI for connected asset manufacturers and operators to transform their data into lower warranty costs, less downtime, and better customer experience."
+  },
+  {
+    "name": "vialtrials.com",
+    "url": "https://vialtrials.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Vial is a hyper scalable biotech - advancing programs into the clinic powered by dramatically cheaper trials and computationally designed therapeutics."
+  },
+  {
+    "name": "twitter.com",
+    "url": "https://twitter.com/home",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": null
+  },
+  {
+    "name": "visualelectric.com",
+    "url": "https://visualelectric.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Bring your vision to life with Visual Electric, the first image generator built for designers."
+  },
+  {
+    "name": "www.vts.com",
+    "url": "https://www.vts.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Transform your CRE organization's leasing, marketing, tenant experience, and property operations with VTS."
+  },
+  {
+    "name": "walrus.com",
+    "url": "http://walrus.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "The personal health manager  |  Upgrade your meds with Rx savings, refills and prescriptions, and pharmacists you can text"
+  },
+  {
+    "name": "warbyparker.com",
+    "url": "https://warbyparker.com",
+    "is_ipo": true,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Warby Parker"
+  },
+  {
+    "name": "wayup.com",
+    "url": "https://wayup.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": true,
+    "description": "The industry leader for qualified and diverse candidates to get discovered and hired. Search for job and internship opportunities, access career advice, and connect directly with top employers."
+  },
+  {
+    "name": "www.brex.com",
+    "url": "https://www.brex.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Simplify expense management with Brex's spend management platform. From business cards to banking, Brex helps you drive growth, automate processes, & earn more."
+  },
+  {
+    "name": "www.welltheory.com",
+    "url": "https://www.welltheory.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Our programs support autoimmune lifestyle changes with an actionable and supportive membership experience, no matter where you are in your autoimmune journey."
+  },
+  {
+    "name": "with.co",
+    "url": "https://with.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "You deserve to own your business' real estate. We help make that happen through a new concept: lease-to-own your commercial real estate."
+  },
+  {
+    "name": "www.zeroacre.com",
+    "url": "https://www.zeroacre.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Zero Acre oil is the all purpose cooking oil that is better for people and planet."
+  },
+  {
+    "name": "www.zipsec.com",
+    "url": "https://www.zipsec.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Zip automates cloud-based identity management, device management, and endpoint threat detection making securing a company and acing compliance audits a breeze."
+  },
+  {
+    "name": "zuplo.com",
+    "url": "https://zuplo.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Zuplo is fully-managed API Management designed for developers. Add rate-limiting, authentication and more as fast as you can commit to git."
+  },
+  {
+    "name": "www.cornerstoneondemand.com",
+    "url": "https://www.cornerstoneondemand.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false,
+    "description": "Cornerstone's adaptive HCM solutions provide an end-to-end, skills-forward, and AI-powered system built for the new way we all work."
+  },
+  {
+    "name": "workrise.com",
+    "url": "http://workrise.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Source-to-pay software and services designed to empower energy professionals to streamline field operations."
+  },
+  {
+    "name": "www.brat.tv",
+    "url": "https://www.brat.tv",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Brat TV is where the next generation tunes in to Chicken Girls, Total Eclipse, Attaway General and more."
+  },
+  {
+    "name": "www.zeal.com",
+    "url": "https://www.zeal.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Zeal is the modern payroll platform that helps you put payroll on autopilot, handle dynamic work, and build a better worker experience. Companies choose Zeal to deliver payroll that's automated, flexible, and native."
+  },
+  {
+    "name": "zeppelinos.org",
+    "url": "http://zeppelinos.org",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false,
+    "description": "Ship faster and more safely with Defender Cloud Services. From testnet to mainnet, at any scale."
+  }
+]

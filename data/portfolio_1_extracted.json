@@ -1,0 +1,2732 @@
+[
+  {
+    "name": "www.tryramp.com",
+    "url": "https://www.tryramp.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.plaid.com",
+    "url": "https://www.plaid.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true
+  },
+  {
+    "name": "airtable.com",
+    "url": "http://airtable.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "ro.co",
+    "url": "https://ro.co/weight-loss/wegovy/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true
+  },
+  {
+    "name": "amplitude.com",
+    "url": "https://amplitude.com",
+    "is_ipo": true,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "clay.run",
+    "url": "http://clay.run",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true
+  },
+  {
+    "name": "scopely.com",
+    "url": "http://scopely.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "solugen.com",
+    "url": "https://solugen.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "stripe.com",
+    "url": "http://stripe.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "warp.dev",
+    "url": "https://warp.dev",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true
+  },
+  {
+    "name": "www.flyzipline.com",
+    "url": "http://www.flyzipline.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "cursor.sh",
+    "url": "https://cursor.sh/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "0pass.com",
+    "url": "https://0pass.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.64-x.com",
+    "url": "https://www.64-x.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "8flow.ai",
+    "url": "https://8flow.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.accruesavings.com",
+    "url": "https://www.accruesavings.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.adaptive.build",
+    "url": "https://www.adaptive.build/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "adstruc.com",
+    "url": "http://adstruc.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "aetherbio.com",
+    "url": "https://aetherbio.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.airbase.com",
+    "url": "https://www.airbase.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.air.chat",
+    "url": "https://www.air.chat/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.alignedmarketplace.com",
+    "url": "https://www.alignedmarketplace.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "runalloy.com",
+    "url": "https://runalloy.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "helloalma.com",
+    "url": "https://helloalma.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.alt.xyz",
+    "url": "https://www.alt.xyz/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "ambrook.com",
+    "url": "http://ambrook.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.tryandai.com",
+    "url": "https://www.tryandai.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "and.co",
+    "url": "http://and.co",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.ansa.dev",
+    "url": "https://www.ansa.dev/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "antaresindustries.com",
+    "url": "https://antaresindustries.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.anthrogen.com",
+    "url": "https://www.anthrogen.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "applystickers.com",
+    "url": "http://applystickers.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.arcadia.com",
+    "url": "https://www.arcadia.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "artsy.net",
+    "url": "http://artsy.net",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "useascend.com",
+    "url": "https://useascend.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "astranis.com",
+    "url": "http://astranis.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.a.team",
+    "url": "https://www.a.team/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.atom-computing.com",
+    "url": "https://www.atom-computing.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "automatedinsights.com",
+    "url": "http://automatedinsights.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.avoca.ai",
+    "url": "https://www.avoca.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "playbackbone.com",
+    "url": "https://playbackbone.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.backengine.com",
+    "url": "https://www.backengine.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "bark.co",
+    "url": "https://bark.co",
+    "is_ipo": true,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.baseten.co",
+    "url": "https://www.baseten.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.basiccapital.com",
+    "url": "https://www.basiccapital.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.getbasis.ai",
+    "url": "https://www.getbasis.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true
+  },
+  {
+    "name": "basistheory.com",
+    "url": "http://basistheory.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "behance.com",
+    "url": "http://behance.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "shop.getbezel.com",
+    "url": "https://shop.getbezel.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "playbigbrain.com",
+    "url": "https://playbigbrain.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "binti.com",
+    "url": "https://binti.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "blinkhealth.com",
+    "url": "http://blinkhealth.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.blockrenovation.com",
+    "url": "https://www.blockrenovation.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "blueapron.com",
+    "url": "http://blueapron.com",
+    "is_ipo": true,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "boulder.care",
+    "url": "https://boulder.care/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "joinboulevard.com",
+    "url": "https://joinboulevard.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "boweryfarming.com",
+    "url": "http://boweryfarming.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true
+  },
+  {
+    "name": "boxed.com",
+    "url": "http://boxed.com",
+    "is_ipo": true,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.braintrustdata.com",
+    "url": "https://www.braintrustdata.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "branch.com",
+    "url": "http://branch.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.breadpayments.com",
+    "url": "https://www.breadpayments.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "thebrowser.company",
+    "url": "https://thebrowser.company/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "bubble.io",
+    "url": "https://bubble.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.usebutton.com",
+    "url": "https://www.usebutton.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "shopcanal.com",
+    "url": "https://shopcanal.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.joincandidhealth.com",
+    "url": "https://www.joincandidhealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "canopyservicing.com",
+    "url": "https://canopyservicing.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "canopylabs.ai",
+    "url": "https://canopylabs.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "capchase.com",
+    "url": "https://capchase.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.cartwheelcare.org",
+    "url": "https://www.cartwheelcare.org/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "casetext.com",
+    "url": "http://casetext.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.getcatch.com",
+    "url": "https://www.getcatch.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.getcensus.com",
+    "url": "https://www.getcensus.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "chain.com",
+    "url": "http://chain.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.chief.com",
+    "url": "https://www.chief.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.circle.so",
+    "url": "https://www.circle.so",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "citizen.com",
+    "url": "http://citizen.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.claim.co",
+    "url": "https://www.claim.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.clara.com",
+    "url": "https://www.clara.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "classpass.com",
+    "url": "https://classpass.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.cleancult.com",
+    "url": "https://www.cleancult.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "clearbit.com",
+    "url": "http://clearbit.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "cloverhealth.com",
+    "url": "http://cloverhealth.com",
+    "is_ipo": true,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.joinclubhouse.com",
+    "url": "https://www.joinclubhouse.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "coastpay.com",
+    "url": "https://coastpay.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true
+  },
+  {
+    "name": "cohere.so",
+    "url": "http://cohere.so",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.commandbar.com",
+    "url": "https://www.commandbar.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.concourse.co",
+    "url": "https://www.concourse.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "getconfide.com",
+    "url": "https://getconfide.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "crayon.co",
+    "url": "http://crayon.co",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.interwellhealth.com",
+    "url": "https://www.interwellhealth.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "croissant.com",
+    "url": "https://croissant.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "crowdtangle.com",
+    "url": "http://crowdtangle.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.ctrlstack.com",
+    "url": "https://www.ctrlstack.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.culturebiosciences.com",
+    "url": "https://www.culturebiosciences.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "curie.bio",
+    "url": "https://curie.bio/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "customer.io",
+    "url": "http://customer.io",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "cycle.app",
+    "url": "http://cycle.app",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "dandelionenergy.com",
+    "url": "https://dandelionenergy.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "dataminr.com",
+    "url": "http://dataminr.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.withdavid.ai",
+    "url": "https://www.withdavid.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.davidenergy.com",
+    "url": "https://www.davidenergy.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "getdecipher.com",
+    "url": "https://getdecipher.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.default.com",
+    "url": "https://www.default.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.didero.ai",
+    "url": "https://www.didero.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "diode.computer",
+    "url": "https://diode.computer/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.doppler.com",
+    "url": "https://www.doppler.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "dots.dev",
+    "url": "https://dots.dev/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "efficient.computer",
+    "url": "https://efficient.computer/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "electronx.com",
+    "url": "https://electronx.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "embrace.io",
+    "url": "http://embrace.io",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "enode.io",
+    "url": "http://enode.io",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.epochbiodesign.com",
+    "url": "https://www.epochbiodesign.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.geteppo.com",
+    "url": "https://www.geteppo.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "equals.app",
+    "url": "https://equals.app/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "etleap.com",
+    "url": "https://etleap.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.one.app",
+    "url": "https://www.one.app/atwork",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "evvy.com",
+    "url": "https://evvy.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.fabrichealth.com",
+    "url": "http://www.fabrichealth.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.factory.ai",
+    "url": "https://www.factory.ai",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.fillout.com",
+    "url": "https://www.fillout.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "tryfinch.com",
+    "url": "https://tryfinch.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "flatiron.com",
+    "url": "http://flatiron.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "flatironschool.com",
+    "url": "http://flatironschool.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "flexport.com",
+    "url": "http://flexport.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.float.tech",
+    "url": "https://www.float.tech/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "flockhomes.com",
+    "url": "https://flockhomes.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "flow.io",
+    "url": "http://flow.io",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.flowcarbon.com",
+    "url": "https://www.flowcarbon.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.onefootprint.com",
+    "url": "https://www.onefootprint.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "formsort.com",
+    "url": "https://formsort.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.fortresslabs.com",
+    "url": "https://www.fortresslabs.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.fortunahealth.com",
+    "url": "https://www.fortunahealth.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "goforward.com",
+    "url": "http://goforward.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.foundationhealth.com",
+    "url": "https://www.foundationhealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "fragment.dev",
+    "url": "https://fragment.dev",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.friendlyapps.co",
+    "url": "https://www.friendlyapps.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "fullyramped.com",
+    "url": "https://fullyramped.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "fundera.com",
+    "url": "http://fundera.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "funnelleasing.com",
+    "url": "https://funnelleasing.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.fuseenergy.com",
+    "url": "https://www.fuseenergy.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "gamechanger.io",
+    "url": "http://gamechanger.io",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.ganymede.bio",
+    "url": "https://www.ganymede.bio/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.getgarner.com",
+    "url": "https://www.getgarner.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "garnix.io",
+    "url": "https://garnix.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.geltor.com",
+    "url": "http://www.geltor.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "generalbiological.com",
+    "url": "https://generalbiological.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "gengalactic.com",
+    "url": "https://gengalactic.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.giantswarm.io",
+    "url": "https://www.giantswarm.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.gigs.tel",
+    "url": "https://www.gigs.tel/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "glossier.com",
+    "url": "http://glossier.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.goodcover.com",
+    "url": "https://www.goodcover.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "gooddog.com",
+    "url": "http://gooddog.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true
+  },
+  {
+    "name": "www.goose.pet",
+    "url": "https://www.goose.pet/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.granular-energy.com",
+    "url": "https://www.granular-energy.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "graphite.dev",
+    "url": "https://graphite.dev/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "groupme.com",
+    "url": "http://groupme.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "guideline.com",
+    "url": "http://guideline.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "handy.com",
+    "url": "http://handy.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "harrys.com",
+    "url": "http://harrys.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.haus.io",
+    "url": "https://www.haus.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.havenservicing.com",
+    "url": "https://www.havenservicing.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "haystack.so",
+    "url": "https://haystack.so/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.helical-ai.com",
+    "url": "https://www.helical-ai.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.herondata.io",
+    "url": "https://www.herondata.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "hex.site",
+    "url": "https://hex.site",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.joinhighrise.com",
+    "url": "http://www.joinhighrise.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "hqtravel.com",
+    "url": "https://hqtravel.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "store.epicgames.com",
+    "url": "https://store.epicgames.com/en-US/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "hyperscience.com",
+    "url": "http://hyperscience.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "id.me",
+    "url": "http://id.me",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "ifttt.com",
+    "url": "http://ifttt.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.imprint.co",
+    "url": "https://www.imprint.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.getindustrial.ai",
+    "url": "https://www.getindustrial.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "intello.io",
+    "url": "http://intello.io",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.iverify.io",
+    "url": "https://www.iverify.io",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.j2health.com",
+    "url": "https://www.j2health.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "jam.dev",
+    "url": "http://jam.dev",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "jetfuel.it",
+    "url": "https://jetfuel.it/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.jetify.com",
+    "url": "https://www.jetify.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "jetty.com",
+    "url": "http://jetty.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.jiminihealth.com",
+    "url": "https://www.jiminihealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "kasa.com",
+    "url": "https://kasa.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.keychain.com",
+    "url": "https://www.keychain.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "khealth.ai",
+    "url": "http://khealth.ai",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.kineuphorics.com",
+    "url": "http://www.kineuphorics.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "livekindred.com",
+    "url": "https://livekindred.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "koala.health",
+    "url": "https://koala.health/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.usekojo.com",
+    "url": "https://www.usekojo.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.kulabio.com",
+    "url": "https://www.kulabio.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "kustomer.com",
+    "url": "http://kustomer.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "landa.app",
+    "url": "https://landa.app",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.linkedin.com",
+    "url": "https://www.linkedin.com/company/learned-hand/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.lekko.com",
+    "url": "https://www.lekko.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "level.com",
+    "url": "https://level.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "lever.co",
+    "url": "http://lever.co",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.lido.app",
+    "url": "https://www.lido.app",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "light.dev",
+    "url": "https://light.dev/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.littleotterhealth.com",
+    "url": "https://www.littleotterhealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "livepeer.org",
+    "url": "http://livepeer.org",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "loops.so",
+    "url": "https://loops.so/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.lotusflare.com",
+    "url": "http://www.lotusflare.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "loyalfordogs.com",
+    "url": "https://loyalfordogs.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.machindustries.com",
+    "url": "https://www.machindustries.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.macro.com",
+    "url": "https://www.macro.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.getmagical.com",
+    "url": "https://www.getmagical.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.mammoth-hq.com",
+    "url": "https://www.mammoth-hq.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.manifestcyber.com",
+    "url": "https://www.manifestcyber.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "mantl.com",
+    "url": "http://mantl.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.growmaple.com",
+    "url": "https://www.growmaple.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "matik.io",
+    "url": "http://matik.io",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "matterport.com",
+    "url": "http://matterport.com",
+    "is_ipo": true,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.mavenclinic.com",
+    "url": "http://www.mavenclinic.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "withmaza.com",
+    "url": "https://withmaza.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "medallion.co",
+    "url": "https://medallion.co",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.getmercantile.com",
+    "url": "https://www.getmercantile.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.merlinlabs.com",
+    "url": "https://www.merlinlabs.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "m3ter.com",
+    "url": "https://m3ter.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.miluhealth.com",
+    "url": "https://www.miluhealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.mirror.co",
+    "url": "https://www.mirror.co/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "modernanimal.com",
+    "url": "http://modernanimal.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.modernfertility.com",
+    "url": "https://www.modernfertility.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.molecule.to",
+    "url": "https://www.molecule.to/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.tumomento.com",
+    "url": "https://www.tumomento.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "en.getmoss.com",
+    "url": "https://en.getmoss.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.mothergames.com",
+    "url": "https://www.mothergames.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.mountaintop.gg",
+    "url": "https://www.mountaintop.gg/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.withmultiply.com",
+    "url": "https://www.withmultiply.com/about",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "mythictx.com",
+    "url": "https://mythictx.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.neros.tech",
+    "url": "https://www.neros.tech/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.netomi.com",
+    "url": "https://www.netomi.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "twitter.com",
+    "url": "https://twitter.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.nominal.io",
+    "url": "https://www.nominal.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.northwoodspace.io",
+    "url": "https://www.northwoodspace.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "notablelabs.com",
+    "url": "http://notablelabs.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "us.nothing.tech",
+    "url": "https://us.nothing.tech/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.usenourish.com",
+    "url": "https://www.usenourish.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.bynovella.com",
+    "url": "https://www.bynovella.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true
+  },
+  {
+    "name": "www.banknovo.com",
+    "url": "https://www.banknovo.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "numberfire.com",
+    "url": "http://numberfire.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "nuorder.com",
+    "url": "http://nuorder.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "nuvo.com",
+    "url": "https://nuvo.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "odeko.com",
+    "url": "https://odeko.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.exploreomni.com",
+    "url": "https://www.exploreomni.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.onechronos.com",
+    "url": "https://www.onechronos.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "onedrop.today",
+    "url": "http://onedrop.today",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.oneschema.co",
+    "url": "https://www.oneschema.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "opal.dev",
+    "url": "https://opal.dev/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "openspace.ai",
+    "url": "http://openspace.ai",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.orum.io",
+    "url": "https://www.orum.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "hioscar.com",
+    "url": "http://hioscar.com",
+    "is_ipo": true,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "itsovertime.com",
+    "url": "http://itsovertime.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.joinowners.com",
+    "url": "https://www.joinowners.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.pahdolabs.com",
+    "url": "https://www.pahdolabs.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "trypallet.com",
+    "url": "https://trypallet.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "palmetto.com",
+    "url": "http://palmetto.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "paperspace.com",
+    "url": "http://paperspace.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "parkade.com",
+    "url": "https://parkade.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "paytient.co",
+    "url": "http://paytient.co",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.usepepper.com",
+    "url": "https://www.usepepper.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "phaselab.co",
+    "url": "https://phaselab.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.photon.health",
+    "url": "https://www.photon.health/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.picklerobot.com",
+    "url": "https://www.picklerobot.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "pika.earth",
+    "url": "https://pika.earth/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "pillpack.com",
+    "url": "http://pillpack.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.pineparkhealth.com",
+    "url": "https://www.pineparkhealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "planetscale.com",
+    "url": "https://planetscale.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "plover.insure",
+    "url": "https://plover.insure/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.pocus.com",
+    "url": "https://www.pocus.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "pomelo.la",
+    "url": "https://pomelo.la/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.pomelocare.com",
+    "url": "https://www.pomelocare.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.palantir.com",
+    "url": "https://www.palantir.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "postgresml.org",
+    "url": "https://postgresml.org/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.prima.ai",
+    "url": "https://www.prima.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.privy.io",
+    "url": "https://www.privy.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "prooftrading.com",
+    "url": "https://prooftrading.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.prophetic.com",
+    "url": "https://www.prophetic.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.prosperhealth.io",
+    "url": "https://www.prosperhealth.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.withpulley.com",
+    "url": "https://www.withpulley.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "radiantai.com",
+    "url": "https://radiantai.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.rainforestpay.com",
+    "url": "https://www.rainforestpay.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "rankscience.com",
+    "url": "http://rankscience.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.salesforce.com",
+    "url": "https://www.salesforce.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.reducto.ai",
+    "url": "https://www.reducto.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "reflex.dev",
+    "url": "https://reflex.dev/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.remedyscientific.com",
+    "url": "https://www.remedyscientific.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.renewafi.com",
+    "url": "https://www.renewafi.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "retro.app",
+    "url": "https://retro.app/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.ginkgobioworks.com",
+    "url": "https://www.ginkgobioworks.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.ribbonhealth.com",
+    "url": "https://www.ribbonhealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "rightfoot.com",
+    "url": "http://rightfoot.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.rillet.com",
+    "url": "https://www.rillet.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.rogodata.com",
+    "url": "https://www.rogodata.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.ronja.tech",
+    "url": "https://www.ronja.tech/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "rose.ai",
+    "url": "https://rose.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "routable.com",
+    "url": "https://routable.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.routine.co",
+    "url": "https://www.routine.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.salientmotion.com",
+    "url": "https://www.salientmotion.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "sandbar.ai",
+    "url": "https://sandbar.ai/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "jobs.ashbyhq.com",
+    "url": "https://jobs.ashbyhq.com/sauronhome",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.savvywealth.com",
+    "url": "https://www.savvywealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "seatme.com",
+    "url": "http://seatme.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "secureframe.com",
+    "url": "http://secureframe.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "seed.com",
+    "url": "https://seed.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "sense360.com",
+    "url": "http://sense360.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "sevenrooms.com",
+    "url": "http://sevenrooms.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.theshellworks.com",
+    "url": "https://www.theshellworks.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "goshippo.com",
+    "url": "https://goshippo.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "shipwell.com",
+    "url": "http://shipwell.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "clubhouse.io",
+    "url": "http://clubhouse.io",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true
+  },
+  {
+    "name": "www.simondata.com",
+    "url": "https://www.simondata.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "simperium.com",
+    "url": "http://simperium.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "skillshare.com",
+    "url": "http://skillshare.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "skysafe.io",
+    "url": "http://skysafe.io",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.slingshot.xyz",
+    "url": "https://www.slingshot.xyz/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "smartthings.com",
+    "url": "http://smartthings.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "smithrx.com",
+    "url": "http://smithrx.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.snackpass.co",
+    "url": "https://www.snackpass.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "sora.co",
+    "url": "https://sora.co",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "spacious.com",
+    "url": "http://spacious.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.sphinxbio.com",
+    "url": "https://www.sphinxbio.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "splashthat.com",
+    "url": "http://splashthat.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "splice.com",
+    "url": "http://splice.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "spoonuniversity.com",
+    "url": "http://spoonuniversity.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.shoprunner.com",
+    "url": "https://www.shoprunner.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": true
+  },
+  {
+    "name": "standardbots.com",
+    "url": "http://standardbots.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "stedi.com",
+    "url": "http://stedi.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "stord.com",
+    "url": "http://stord.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "strangeworks.com",
+    "url": "https://strangeworks.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "streak.com",
+    "url": "http://streak.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "studspiercing.com",
+    "url": "https://studspiercing.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.summerhealth.com",
+    "url": "https://www.summerhealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "sundaysfordogs.com",
+    "url": "https://sundaysfordogs.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.microsoft.com",
+    "url": "https://www.microsoft.com/en-us/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.thesuperbill.com",
+    "url": "https://www.thesuperbill.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "superhuman.com",
+    "url": "http://superhuman.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "supp.co",
+    "url": "https://supp.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.joinswsh.com",
+    "url": "https://www.joinswsh.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "tagomi.com",
+    "url": "http://tagomi.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "withtandem.com",
+    "url": "https://withtandem.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "law.tavrn.art",
+    "url": "https://law.tavrn.art/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.zira.ai",
+    "url": "http://www.zira.ai",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "telegraph.io",
+    "url": "https://telegraph.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "tempestdx.com",
+    "url": "https://tempestdx.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "terminal49.com",
+    "url": "http://terminal49.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "things.inc",
+    "url": "https://things.inc/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "thinknear.com",
+    "url": "http://thinknear.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.timbereye.com",
+    "url": "https://www.timbereye.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "tinfoilsecurity.com",
+    "url": "http://tinfoilsecurity.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.titanvest.com",
+    "url": "https://www.titanvest.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.tomorrowhealth.com",
+    "url": "https://www.tomorrowhealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "trello.com",
+    "url": "http://trello.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.triumpharcade.com",
+    "url": "https://www.triumpharcade.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "trueaccord.com",
+    "url": "http://trueaccord.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.truemed.com",
+    "url": "https://www.truemed.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.truepill.com",
+    "url": "https://www.truepill.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.trustlayer.io",
+    "url": "https://www.trustlayer.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.tunicpay.com",
+    "url": "https://www.tunicpay.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "turquoise.health",
+    "url": "https://turquoise.health/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "tuvahealth.com",
+    "url": "https://tuvahealth.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "umaproject.org",
+    "url": "https://umaproject.org/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "askumbrella.com",
+    "url": "https://askumbrella.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "onuniverse.com",
+    "url": "http://onuniverse.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": true
+  },
+  {
+    "name": "upnext.com",
+    "url": "http://upnext.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "upsidefoods.com",
+    "url": "http://upsidefoods.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "valdera.com",
+    "url": "https://valdera.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.valur.io",
+    "url": "https://www.valur.io/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.airbnb.com",
+    "url": "https://www.airbnb.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.vana.xyz",
+    "url": "https://www.vana.xyz/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "veefriends.com",
+    "url": "https://veefriends.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "vertoeducation.org",
+    "url": "https://vertoeducation.org",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "viaduct.ai",
+    "url": "https://viaduct.ai",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "vialtrials.com",
+    "url": "https://vialtrials.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "twitter.com",
+    "url": "https://twitter.com/home",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "visualelectric.com",
+    "url": "https://visualelectric.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.vts.com",
+    "url": "https://www.vts.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "walrus.com",
+    "url": "http://walrus.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "warbyparker.com",
+    "url": "https://warbyparker.com",
+    "is_ipo": true,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "wayup.com",
+    "url": "https://wayup.com",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": true
+  },
+  {
+    "name": "www.brex.com",
+    "url": "https://www.brex.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.welltheory.com",
+    "url": "https://www.welltheory.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "with.co",
+    "url": "https://with.co/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.cornerstoneondemand.com",
+    "url": "https://www.cornerstoneondemand.com/",
+    "is_ipo": false,
+    "is_exit": true,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "workrise.com",
+    "url": "http://workrise.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.brat.tv",
+    "url": "https://www.brat.tv",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.zeal.com",
+    "url": "https://www.zeal.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "zeppelinos.org",
+    "url": "http://zeppelinos.org",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.zeroacre.com",
+    "url": "https://www.zeroacre.com",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "www.zipsec.com",
+    "url": "https://www.zipsec.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  },
+  {
+    "name": "zuplo.com",
+    "url": "https://zuplo.com/",
+    "is_ipo": false,
+    "is_exit": false,
+    "is_boxgroup_office": false
+  }
+]
