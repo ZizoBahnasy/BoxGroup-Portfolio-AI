@@ -1,6 +1,6 @@
 # BoxGroup Portfolio AI: OpenAI's Realtime API + LiveKit Integration
 
-BoxGroup Portfolio AI is a voice agent that combines web scraping, LLM analysis, and real-time voice interaction to analyze BoxGroup's investment portfolio. Using OpenAI's language models and LiveKit's real-time communication infrastructure, it provides deep insights into portfolio companies, market trends, and investment patterns. Users can explore investment styles, company defensibility, fundraising activities, and portfolio comparisons through natural conversation.
+BoxGroup Portfolio AI is a voice agent that combines web scraping, LLM analysis, and real-time voice interaction to analyze BoxGroup's investment portfolio. Using OpenAI's Realtime API and LiveKit's real-time communication infrastructure, it provides deep insights into portfolio companies, market trends, and investment patterns. Users can explore investment styles, company defensibility, fundraising activities, and portfolio comparisons through natural conversation.
 
 This is a local development project. Follow the setup guide below to run your own instance.
 
