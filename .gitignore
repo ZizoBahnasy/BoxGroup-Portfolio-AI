@@ -8,7 +8,7 @@ __pycache__/
 .env
 .env.local
 .env*.local
-!agent/.env
+agent/.env
 !web/.env.sample
 !agent/.env.sample
 
