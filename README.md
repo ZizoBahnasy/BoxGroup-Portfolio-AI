@@ -157,4 +157,12 @@ For more information, visit [LiveKit docs](https://docs.livekit.io/).
 ## License
 
 Apache 2.0
-```
+
+## Acknowledgments
+
+This project is built using notable open-source projects:
+
+- [LiveKit](https://github.com/livekit/livekit) - Open-source WebRTC infrastructure ([Apache-2.0 License](https://github.com/livekit/livekit/blob/main/LICENSE))
+- [google-news-scraper](https://github.com/lewisdonovan/google-news-scraper) - Google News scraping utility
+
+Special thanks to the maintainers and contributors of these projects.
